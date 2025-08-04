@@ -5,5 +5,5 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 <h2>Authorization</h2>
 
-- [Current file permissions]( )
-- [File permissions updated]( )
+- [Current file permissions](https://github.com/norahberger/Linux-SQL/blob/e5aee1dbbdfb6a333a38933ac93d5b881897aaf1/Linux/Current%20file%20permissions.pdf)
+- [File permissions updated](https://github.com/norahberger/Linux-SQL/blob/e5aee1dbbdfb6a333a38933ac93d5b881897aaf1/Linux/File%20permissions%20in%20Linux.pdf)
