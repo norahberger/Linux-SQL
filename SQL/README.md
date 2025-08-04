@@ -5,5 +5,5 @@ Your task is to examine the organization’s data in their employees and log_in_
 
 <h2>Documents</h2>
 
--[Table formats]( )
--[Filters to SQL queries]( )
+- [Table formats](https://github.com/norahberger/Linux-SQL/blob/a5b06de560821f61bca1fb598815948079c01f4c/SQL/Table%20formats.pdf)
+- [Filters to SQL queries](https://github.com/norahberger/Linux-SQL/blob/a5b06de560821f61bca1fb598815948079c01f4c/SQL/Apply%20filters%20to%20SQL%20queries.pdf)
